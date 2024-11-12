@@ -1,16 +1,22 @@
-## Hi there 👋
+#  Welcome to my GitHub, I`m a passionate SWE.
 
-<!--
-**seonrizee/seonrizee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I Use
+### Backend
+- **Languages:** Java (Core, Advanced)
+- **Frameworks:** Spring Boot
+- **Database:** MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 📊 GitHub Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
+
+---
+
+## 📫 Let's Connect!
+- **Email:** seonrizee@example.com
+
+Thanks for stopping by!

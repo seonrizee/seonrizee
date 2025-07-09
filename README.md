@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Pilseon Kim 👋
+```
+Software Engineer
+```
+- [✍️ **Blog**](https://seonrizee.github.io)
+- [📧 **Email**](mailto:seonrizee@gmail.com)
+  
+## 🛠️ Tech Stacks
+```
+Languages
+- Java
 
-<!--
-**seonrizee/seonrizee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frameworks
+- Spring
 
-Here are some ideas to get you started:
+Databases
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+DevOps & Infra
+- Github Actions
+- AWS
+- Naver Cloud
+
+Interested in...
+- Test code
+- JPA/Hibernate
+- Docker
+- CI/CD
+```
+## Stats
+[![runps's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonrizee&show_icons=true&hide_border=true&count_private=true)](https://github.com/seonrizee)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=runps)](https://solved.ac/runps)

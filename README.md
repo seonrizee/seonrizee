@@ -22,8 +22,9 @@ DevOps & Infra
 - Naver Cloud
 
 Interested in...
-- Test code
+- Modern Java
 - JPA/Hibernate
+- Test code
 - Docker
 - CI/CD
 ```

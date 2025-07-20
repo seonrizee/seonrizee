@@ -5,7 +5,7 @@ Software Engineer
 - [✍️ **Blog**](https://seonrizee.github.io)
 - [📧 **Email**](mailto:seonrizee@gmail.com)
   
-## 🛠️ Tech Stacks
+## Tech Stacks
 ```
 Languages
 - Java

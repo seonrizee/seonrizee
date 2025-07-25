@@ -1,6 +1,6 @@
 ## Hi, I'm Pilseon Kim 👋
 ```
-Software Engineer
+A Software Engineer building solutions on a foundation of solid fundamentals, not just with a set of tools.
 ```
 - [✍️ **Blog**](https://seonrizee.github.io)
 - [📧 **Email**](mailto:seonrizee@gmail.com)
@@ -23,10 +23,9 @@ DevOps & Infra
 
 Interested in...
 - Modern Java
+- MySQL
 - JPA/Hibernate
 - Test code
-- Docker
-- CI/CD
 ```
 ## Stats
 [![runps's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonrizee&show_icons=true&hide_border=true&count_private=true)](https://github.com/seonrizee)

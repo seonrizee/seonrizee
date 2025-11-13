@@ -1,6 +1,6 @@
 ## Hi, I'm Pilseon Kim 👋
 ```
-A Software Engineer building solutions on a foundation of solid fundamentals, not just with a set of tools.
+A Software Engineer building products on a foundation of solid fundamentals, not just with a set of tools.
 ```
 - [✍️ **Blog**](https://seonrizee.github.io)
 - [📧 **Email**](mailto:seonrizee@gmail.com)
@@ -9,6 +9,7 @@ A Software Engineer building solutions on a foundation of solid fundamentals, no
 ```
 Languages
 - Java
+- Javascript
 
 Frameworks
 - Spring
@@ -19,13 +20,9 @@ Databases
 DevOps & Infra
 - Github Actions
 - AWS
-- Naver Cloud
 
 Interested in...
-- Modern Java
-- MySQL
-- JPA/Hibernate
-- Test code
+- Products
 ```
 ## Stats
 [![runps's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonrizee&show_icons=true&hide_border=true&count_private=true)](https://github.com/seonrizee)
